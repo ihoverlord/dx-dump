@@ -1,0 +1,4 @@
+{
+    "from": "mongodb://localhost:27017/",
+    "to": "mongodb://localhost:27017/"
+}
